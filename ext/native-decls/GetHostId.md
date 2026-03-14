@@ -1,5 +1,8 @@
 ---
 ns: CFX
+
+
+
 apiset: server
 ---
 ## GET_HOST_ID
